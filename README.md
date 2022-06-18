@@ -1,0 +1,2 @@
+# ajalaa
+django project
